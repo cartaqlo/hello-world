@@ -7,13 +7,9 @@
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
-<%--     
+     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
-    <br>
---%>
-    <label for="mobile"><b>Enter nickname</b></label>
-    <input type="text" placeholder="Enter your nickname" name="nick" id="nick" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
